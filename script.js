@@ -1,8 +1,3 @@
-// function displayText() {
-//   times = JSON.parse.localStorage.getItem(someId);
-// }
-// displayText();
-
 $(function () {
   var mainDiv = $(".container-lg");
 
